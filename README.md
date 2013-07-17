@@ -1,6 +1,4 @@
-KAOS_sandbox
+The RBO_EMR PRoject
 ============
 
-This repository is for developing code at first with more lax rules on file naming conventions, code structure, comments for commits, etc. 
-
-This should be an area for all data code under development. Once rules are establish for review, enhancements/changes/issues, everything will be ported to the KAOS production repository. 
+This repository is for the designation of an EMR/EHR suite of tools that uses available metadata and patient medical information to inform the caregiver the trajectory of a patients global and local medical condition and QoL. 
